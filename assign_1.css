@@ -1,0 +1,76 @@
+body{
+	background:#BBFFBB;
+	font: 14px arial;
+	color:#6BB77B;
+	margin: 50px;
+	margin-top: 10px;
+}
+
+main {
+	background:#172D13;
+}
+
+a {
+	margin: 5px;
+}
+
+
+header{
+	border:1px solid black;
+	background:#6BB77B;
+	font: 20px;
+    height: 70px;
+    line-height: 70px;
+}
+
+#img1{
+	float:right;
+	width:50px;
+	margin:6px
+}
+
+#mp {
+	float: right;
+	font-family: Agency FB;
+	margin: 0px 20px 0px 0px;
+	color:black;
+}
+
+div {
+	position: static;
+	display:block;
+	border: 1px solid black;
+	margin:5px;
+	padding:10px;
+	clear: right;
+}
+
+#hero{
+	text-align:center;
+}
+
+#movies{
+}
+
+.img{
+	float: right;
+	width: 700px;
+	margin:10px;
+}
+
+#img2{
+	float:right;
+	width:700px
+}
+
+table, th, td {
+	font-size: 20px;
+	border: 1px solid blue;
+}
+
+footer{
+	color:black;
+	background:#6BB77B;
+	border: 1px solid black;
+	padding: 20px;
+}
